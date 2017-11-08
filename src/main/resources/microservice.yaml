@@ -5,10 +5,10 @@ service_description:
 cse:
   service:
     registry:
-      address: https://127.0.0.1:9980
+      address: https://117.78.36.26:9980
   config:
     client:
-      serverUri: https://127.0.0.1:30103
+      serverUri: https://117.78.36.26:30103
       refreshMode: 0
       refresh_interval: 5000
   monitor:
